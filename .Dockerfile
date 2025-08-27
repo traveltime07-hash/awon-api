@@ -1,3 +1,4 @@
+# Dockerfile = "przepis" jak zbudować i uruchomić nasze mini-API
 FROM node:20-alpine
 WORKDIR /app
 COPY package.json ./
